@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 from PIL import Image
-
+import openai
 
 st.title("Generate a custom playlist here!")
 
